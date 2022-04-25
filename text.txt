@@ -1,2 +1,3 @@
  Hi! This is my first file which i used to gain some knowledge about git.
+I am modifing this text file..
 
